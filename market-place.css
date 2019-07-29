@@ -1,0 +1,44 @@
+/* nav-about us*/
+
+.Promo img{
+    height: 550px;
+}
+.navbar{
+    height: 50px;
+}
+.navbar img{
+    height: 35px;
+    width: 35px;
+}
+.footer{
+    height: 60px;
+    background-color:#EC7063;
+    text-align: center;
+}
+.footer img{
+    height: 35px;
+    width: 35px;
+}
+#about{
+    padding: 10px;
+}
+.row img{
+    max-height: 70px;
+    max-width: 100px;
+    text-align: center;
+    margin: 15px;
+}
+/* nav-about us*/
+
+/* Contact Us */
+.kotak form{
+    margin: 110px;
+}
+/* Contact Us */
+
+/* profile */
+.kotak-profile{
+    margin: 100px;
+}
+
+/* profile */
